@@ -1,0 +1,11 @@
+0 Invalid
+1 Hello
+2 Bye
+3 Yes
+4 No
+5 Thank you
+6 Okay
+7 I love you
+8 Welcome
+9 Sorry
+10 Great
